@@ -1,0 +1,19 @@
+# @three-ws/guardian
+
+> Content safety + governance for AI agents in one import. IBM Granite Guardian risk classification, NVIDIA NemoGuard content moderation, autonomous-send caps, and a tamper-evident audit ledger — over the three.ws Trust Layer.
+
+@three-ws/guardian is a JavaScript library from three.ws. Install: `npm install @three-ws/guardian`.
+
+## Docs
+
+- [README](https://github.com/nirholas/three-ws-guardian/blob/main/README.md): install, configuration, full reference
+- [Documentation site](https://nirholas.github.io/three-ws-guardian/): the README as a web page
+- [Full text for LLMs](https://nirholas.github.io/three-ws-guardian/llms-full.txt): README inlined
+- [AGENTS.md](https://github.com/nirholas/three-ws-guardian/blob/main/AGENTS.md): guidance for coding agents
+
+## Project
+
+- [Source](https://github.com/nirholas/three-ws-guardian)
+- [npm](https://www.npmjs.com/package/@three-ws/guardian)
+- [three.ws](https://three.ws): the platform this is part of
+- [Issues](https://github.com/nirholas/three-ws-guardian/issues)

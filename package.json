@@ -1,0 +1,55 @@
+{
+	"name": "@three-ws/guardian",
+	"version": "0.1.3",
+	"description": "Content safety + governance for AI agents in one import. IBM Granite Guardian risk classification, NVIDIA NemoGuard content moderation, autonomous-send caps, and a tamper-evident audit ledger — over the three.ws Trust Layer.",
+	"type": "module",
+	"main": "./src/index.js",
+	"module": "./src/index.js",
+	"types": "./src/index.d.ts",
+	"exports": {
+		".": {
+			"types": "./src/index.d.ts",
+			"import": "./src/index.js",
+			"default": "./src/index.js"
+		},
+		"./package.json": "./package.json"
+	},
+	"files": [
+		"src",
+		"README.md",
+		"LICENSE"
+	],
+	"scripts": {
+		"test": "node --test test/*.test.js"
+	},
+	"keywords": [
+		"ai-safety",
+		"content-moderation",
+		"guardrails",
+		"granite-guardian",
+		"jailbreak-detection",
+		"prompt-injection",
+		"agent-governance",
+		"watsonx",
+		"trust-layer",
+		"three.ws",
+		"ai-agents"
+	],
+	"author": "nirholas <support@three.ws>",
+	"license": "Apache-2.0",
+	"homepage": "https://nirholas.github.io/three-ws-guardian/",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/nirholas/three-ws-guardian.git"
+	},
+	"bugs": {
+		"url": "https://github.com/nirholas/three-ws-guardian/issues"
+	},
+	"engines": {
+		"node": ">=18"
+	},
+	"dependencies": {},
+	"publishConfig": {
+		"access": "public"
+	}
+}
