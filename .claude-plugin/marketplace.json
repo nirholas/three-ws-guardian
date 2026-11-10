@@ -7,8 +7,9 @@
   "plugins": [
     {
       "name": "three-ws-guardian",
-      "source": "./",
+      "source": "./plugins/three-ws-guardian",
       "description": "Screen agent input for jailbreaks and harm, moderate content and cap autonomous sends with the Guardian SDK.",
+      "category": "development",
       "tags": [
         "ai-safety",
         "guardrails",

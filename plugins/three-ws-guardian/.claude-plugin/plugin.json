@@ -6,6 +6,7 @@
     "name": "nirholas"
   },
   "repository": "https://github.com/nirholas/three-ws-guardian",
+  "homepage": "https://nirholas.github.io/three-ws-guardian/",
   "license": "Apache-2.0",
   "keywords": [
     "ai-safety",
@@ -13,6 +14,5 @@
     "governance",
     "agents",
     "sdk"
-  ],
-  "homepage": "https://nirholas.github.io/three-ws-guardian/"
+  ]
 }
